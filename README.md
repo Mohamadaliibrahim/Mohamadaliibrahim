@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science student | 42 Beirut student | Future Cybersecurity Enthusiast</h3>
 <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" align="center" />
 
-- 🔭 I’m currently working on **net practice**
+- 🔭 I’m currently working on **cpp modules **
 
 - 🌱 I’m currently learning **c++**
 
