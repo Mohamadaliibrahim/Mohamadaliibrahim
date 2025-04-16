@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **IRC**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Mohamadaliibrahim?tab=repositories)
 
