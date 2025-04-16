@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Mohamadaliibrahim?tab=repositories)
-
 - ⚡ Fun fact: **The first computer virus was just a prank! It didn’t harm anything, just said: "Catch me if you can!"**
 
 <h3 align="left">Connect with me:</h3>
