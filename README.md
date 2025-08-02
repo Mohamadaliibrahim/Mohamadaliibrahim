@@ -2,9 +2,9 @@
 <h3 align="center">Data Science student | 42 Beirut student </h3>
 <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" align="center" />
 
-- 🔭 I’m currently working on **Ft_transcendence**
+- 🔭 I’m currently working on **multilayer_perceptron**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Deep learning**
 
 - ⚡ Fun fact: **The first computer virus was just a prank! It didn’t harm anything, just said: "Catch me if you can!"**
 
